@@ -12,6 +12,7 @@ These tools cross boundaries across platforms. Learn them well; you will use the
 
 - [Audacity](http://audacity.sourceforge.net/): possibly the best free audio editor around. Also works as a convenient converter between MP3/WAV/OGG files.
 - [GIMP](http://www.gimp.org/): Excellent, free image editor, oft-quoted as a free substitute for Photoshop.
+- [Tiled Map Editor](http://www.mapeditor.org/): an excellent and versatile 2D map editor for tiled maps. Usable enough for art; functional enough to create production game maps.
 
 # Core Mechanic
 
@@ -27,8 +28,11 @@ Create concept art that illustrates the major points of your game and motivates 
 
 Note: **Please respect copyright.** Don't use other peoples intellectual property, especially in commercial games, without their prior permission. For quick concept art, it may suffice. Some sites, like Getty Images, prohibit use even for concept imagery beyond 60 days. Consult with a lawyer.
 
+**Note:** Also take a look at the resources under Main Development.
+
 - [Google Image Search](http://images.google.com/): Awesome way to find good images, but not very specific ones.
 - [Getty Images](http://www.gettyimages.ca): Awesome way to find very specific images; important search words are "nobody" and "single object only".
+
 
 # Early Development
 
@@ -47,6 +51,7 @@ You verified your idea by making it into reality, and saw that it works, and wor
 - [Font Squirrel](http://www.fontsquirrel.com/): beautiful collection of fonts, 100% free for commercial use.
 - [Google Fonts](https://www.google.com/fonts): Excellent collection of fonts with very permissive licensing/terms of usage. Yes, you can download the fonts too.
 - [IconFinder](https://www.iconfinder.com/): Great way to find small, free (and paid) icons that you can use in your games.
+- [Public Art](https://github.com/ummah/public-game-art): A repository of RPG-Maker-like 2D top-down tiles, characters, and related artwork. Take a look (especially if you're making 2D top-down perspective games).
 
 
 # Pre-Release
