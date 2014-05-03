@@ -46,6 +46,9 @@ You verified your idea by making it into reality, and saw that it works, and wor
 
 
 - [BFXR](http://www.bfxr.net/): quickly create decent sound-effects for your game.
+- [CG Textures](http://www.cgtextures.com/): Free, quality textures for 3D (and other) work.
+- [Chibi Maker](http://www.famitsu.com/freegame/tool/chibi/index1.html): Character generator for "chibi" style characters (like in RPG Maker). Site is in Japanese, but still usable without understanding the language.
+- [Face Generator](http://foxrichards.deviantart.com/art/FaceMaker-52755515): Generates 2D faces from a pre-defined set of features. Useful for character avatars.
 - [FreeSound.org](http://freesound.org): download sounds toand compose awesome background ambiance.
 - [The League of Movable Type](https://www.theleagueofmoveabletype.com/): An awesome, but small, list of free-for-use fonts.
 - [Font Squirrel](http://www.fontsquirrel.com/): beautiful collection of fonts, 100% free for commercial use.
