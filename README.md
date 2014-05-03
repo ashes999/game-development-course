@@ -61,6 +61,19 @@ Your game is pretty much done. There's still a lot of stuff you can do to make i
 # Pre-Release
 Finally, your game is complete! You need to prepare it for your marketing push.
 
+- [6 Simple Things You can do to Improve Your Screenshots](http://gamedevelopment.tutsplus.com/tutorials/6-simple-things-you-can-do-to-improve-your-screenshots--gamedev-14272): useful for marketing materials.
+
+
+### Android Games
+- Read the Google Play requirements. Create at least:
+    - Two high-resolution screenshots (eg. `1280x800`)
+    - High-res app icon (512x512)
+    - Promo graphic (180x120)
+    - Featured graphic (1024x500)
+- Make it work on OUYA.
+    - [Here are some notes](http://forums.ouya.tv/discussion/1174/porting-from-mobile-to-ouya/p1) on how to do that.
+    - [Fix your dead zones](http://www.third-helix.com/2013/04/doing-thumbstick-dead-zones-right/) and [make them radial](https://gist.github.com/stfx/5372176)
+
 # Marketing
 
-- [6 Simple Things You can do to Improve Your Screenshots](http://gamedevelopment.tutsplus.com/tutorials/6-simple-things-you-can-do-to-improve-your-screenshots--gamedev-14272): useful for marketing materials.
+**Android Games:** Market on [the official forums](http://forums.ouya.tv/categories/games) and on [these forums](http://ouyaforum.com/forum.php) 
