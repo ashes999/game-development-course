@@ -65,6 +65,7 @@ Finally, your game is complete! You need to prepare it for your marketing push.
 
 
 ### Android Games
+- Integrate [Flurry Analytics](http://www.flurry.com/solutions/analytics) so you can track errors in your game. Place key events so you can monitor for potential problems (eg. level too difficult)
 - Read the Google Play requirements. Create at least:
     - Two high-resolution screenshots (eg. `1280x800`)
     - High-res app icon (512x512)
@@ -76,4 +77,5 @@ Finally, your game is complete! You need to prepare it for your marketing push.
 
 # Marketing
 
-**Android Games:** Market on [the official forums](http://forums.ouya.tv/categories/games) and on [these forums](http://ouyaforum.com/forum.php) 
+- **Android Games:** Post on Google Play and [SlideMe](http://slideme.org/).
+- **OUYA Games:** Market on [the official forums](http://forums.ouya.tv/categories/games) and on [these forums](http://ouyaforum.com/forum.php) 
