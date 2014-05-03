@@ -50,11 +50,11 @@ You verified your idea by making it into reality, and saw that it works, and wor
 - [Chibi Maker](http://www.famitsu.com/freegame/tool/chibi/index1.html): Character generator for "chibi" style characters (like in RPG Maker). Site is in Japanese, but still usable without understanding the language.
 - [Face Generator](http://foxrichards.deviantart.com/art/FaceMaker-52755515): Generates 2D faces from a pre-defined set of features. Useful for character avatars.
 - [FreeSound.org](http://freesound.org): download sounds toand compose awesome background ambiance.
-- [The League of Movable Type](https://www.theleagueofmoveabletype.com/): An awesome, but small, list of free-for-use fonts.
 - [Font Squirrel](http://www.fontsquirrel.com/): beautiful collection of fonts, 100% free for commercial use.
 - [Google Fonts](https://www.google.com/fonts): Excellent collection of fonts with very permissive licensing/terms of usage. Yes, you can download the fonts too.
 - [IconFinder](https://www.iconfinder.com/): Great way to find small, free (and paid) icons that you can use in your games.
 - [Public Art](https://github.com/ummah/public-game-art): A repository of RPG-Maker-like 2D top-down tiles, characters, and related artwork. Take a look (especially if you're making 2D top-down perspective games).
+- [The League of Movable Type](https://www.theleagueofmoveabletype.com/): An awesome, but small, list of free-for-use fonts.
 
 # Finishing Touches
 Your game is pretty much done. There's still a lot of stuff you can do to make it better -- smaller, faster, etc.
