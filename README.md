@@ -34,16 +34,24 @@ Note: **Please respect copyright.** Don't use other peoples intellectual propert
 - [Getty Images](http://www.gettyimages.ca): Awesome way to find very specific images; important search words are "nobody" and "single object only".
 
 
-# Early Development
+# Early Development / Prototyping
 
-Your idea is ready; you have the main gameplay fleshed out. Create the smallest possible prototype version of your code that you can imagine.
+Your idea is ready; you have major points of the main gameplay fleshed out in your head, or on paper. Create the smallest possible prototype version of your code that you can imagine.
 
 Is your core mechanic great? Chances are it needs work. This is the time to tweak it and change it. If it's fun with placeholder graphics and no sound, it'll be amazing with the full, final production.
 
+The goal here is to **trade quality for speed.** The quicker you make your game, the faster you can tell if it's awesome, or less so. Don't worry about code quality, unit testing, or any of that other stuff; just make sure you have something playable and it's *fun.*
+
+Some technologies which are useful for fast/cheap prototyping:
+
+- [CraftyJS](http://craftyjs.com/): Javascript game library with entity/component architecture and event-based messaging. You can create reusable components and parameterized entities, and game development is quite fast. You can also evolve/rewrite your code into production code (complete with unit testing) if you decide to stick with this platform.
+- [LÖVE](http://love2d.org/): Lua game development library. Many swear by it.
+
 # Main Development
 
-You verified your idea by making it into reality, and saw that it works, and works well. Now grind that thing out to completion. Games are not just core gameplay, but they include art, sounds, screens, and many things that you need to do.
+You modified and verified your idea by making it into reality, and saw that it works, and works well. Now grind that thing out to completion. Games are not just core gameplay, but they include art, sounds, screens, and many things that you need to do.
 
+You may want to completely rewrite your game in a different technology to make it production-ready (eg. something more cross-platform/solid/fast/low-level/etc.), or you may want to heavily modify your existing code to bring it up to standards. 
 
 - [BFXR](http://www.bfxr.net/): quickly create decent sound-effects for your game.
 - [CG Textures](http://www.cgtextures.com/): Free, quality textures for 3D (and other) work.
