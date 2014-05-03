@@ -1,4 +1,4 @@
-# The Ultimate Game Development Course
+# The Ultimate Game Development Course (Outline)
 
 Game development is awesome. There are lots of things to read and know, best practices, great tools, and other useful "stuff." This page attempts to give you a bare-bones "course" which takes you from initial idea through to implementation.
 
@@ -53,8 +53,14 @@ You verified your idea by making it into reality, and saw that it works, and wor
 - [IconFinder](https://www.iconfinder.com/): Great way to find small, free (and paid) icons that you can use in your games.
 - [Public Art](https://github.com/ummah/public-game-art): A repository of RPG-Maker-like 2D top-down tiles, characters, and related artwork. Take a look (especially if you're making 2D top-down perspective games).
 
+# Finishing Touches
+Your game is pretty much done. There's still a lot of stuff you can do to make it better -- smaller, faster, etc.
+
+- [TinyPNG](https://tinypng.com/): Compresses all your PNGs in a loss-less way. Saves tons of bytes.
 
 # Pre-Release
 Finally, your game is complete! You need to prepare it for your marketing push.
+
+# Marketing
 
 - [6 Simple Things You can do to Improve Your Screenshots](http://gamedevelopment.tutsplus.com/tutorials/6-simple-things-you-can-do-to-improve-your-screenshots--gamedev-14272): useful for marketing materials.
