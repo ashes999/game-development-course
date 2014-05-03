@@ -32,6 +32,10 @@ Read as much of the below links as you can; they all talk about fundamental unde
 - **Gameplay as skill**: See above article. Consider Mario 64: first level first star requires running, jumping, evasion. Last level last star requires triple-jumping on a dime, then wall-kicking, while you have a blue hat active (limited time).
 - [Trust](http://www.youhaventlived.com/qblog/2013/QBlog180213A.html): Some complaints about levelling in MMOs; how you can ditch this and come up with a sensible system that’s skill-based and trust-based. 
 - [Designing an Inventory System for your RPG](http://gamedevelopment.tutsplus.com/articles/designing-an-rpg-inventory-system-that-fits-preliminary-steps--gamedev-14725): A summary of common inventory types, and the pros and cons of each; advice on how to evaluate which (or what combination / custom version) to implement in your own RPG.
+- [Designing Mini-Games: How to do them Right](http://gamedevelopment.tutsplus.com/articles/designing-rpg-mini-games-and-getting-them-right--gamedev-14226): A discussion on what classes of mini-games exist, and how to pick the appropriate type for your game.
+- [A Single Game as a Lifelong Hobby](http://www.lostgarden.com/2013/07/a-single-game-as-lifelong-hobby.html): How evergreen (skill-based) games attract lifetime, often competitive, gamers.
+- [Understanding Randomness in terms of Mastery](http://www.lostgarden.com/2012/12/understanding-randomness-in-terms-of.html): How to add randomness the right way in your games: that expert users can master it as a skill and use it to their advantage.
+- [Goal Oriented Action Planning for Smarter AIs](http://gamedevelopment.tutsplus.com/tutorials/goal-oriented-action-planning-for-a-smarter-ai--cms-20793): How to create "goal-oriented" AI agents that are more realistic, and use their goals to determine their actions.
 
 # Core Mechanic
 
