@@ -12,7 +12,26 @@ These tools cross boundaries across platforms. Learn them well; you will use the
 
 - [Audacity](http://audacity.sourceforge.net/): possibly the best free audio editor around. Also works as a convenient converter between MP3/WAV/OGG files.
 - [GIMP](http://www.gimp.org/): Excellent, free image editor, oft-quoted as a free substitute for Photoshop.
-- [Tiled Map Editor](http://www.mapeditor.org/): an excellent and versatile 2D map editor for tiled maps. Usable enough for art; functional enough to create production game maps.
+- [Tiled Map Editor](http://www.mapeditor.org/): an excellent and versatile 2D map editor for tiled maps. Usable enough for concept or prototype art; functional enough to create production game maps.
+
+
+# Essential Theory
+
+Game design is a field which is increasingly attracting smart analysis; there are some good ideas about how to design better games.
+
+Read as much of the below links as you can; they all talk about fundamental underpinnings in games (eg. what is "good" vs. "bad" difficulty in games).
+
+- [Understanding Randomness in terms of Mastery](http://www.lostgarden.com/2012/12/understanding-randomness-in-terms-of.html): An explanation of noise, mastery, mental models, and how they go together; how to use random so that unskilled players learn and become skilled players (build mental model, master randomness).
+- [Steambirds: Survival Mode](http://www.lostgarden.com/2011/10/steambirds-survival-mobile.html): An explanation of “arrow of play” -- defining gameplay as a step by step progression, so players know where they are and where they’re going.
+- [Making them Work for it: Designing Achievements for your Games](http://gamedev.tutsplus.com/articles/game-design-articles/make-them-work-for-it-designing-achievements-for-your-games/): What achievements are, and how to design achievements -- good (promote unique gameplay; mark progress), bad (force linear gameplay or bad behaviour), and ugly (chicken kicking?!).
+- [Hard Mode: Good Difficulty vs. Bad Difficulty](http://gamedev.tutsplus.com/articles/game-design-articles/hard-mode-good-difficulty-versus-bad-difficulty/): An explanation of difficulty (requires more user skill), good (developed/designed) vs. bad (artificial: just increment sliders), and why it matters (normal game is balanced, unfair feeling of difficult = lame).
+- [Easy Mode: When is Easy Okay?](http://gamedev.tutsplus.com/articles/game-design-articles/easy-mode-when-easy-is-okay/): the second part of the above series. Talks about crafting difficulty around the experience you want to build, not tweaking it just to try and make it more accessible to casual players.
+- [Evaulating Game Mechanics for Depth](http://www.gamasutra.com/view/feature/134273/evaluating_game_mechanics_for_depth.php): the difference between “shallow” and “deep” mechanics, and how you can use crisp activity statements to build deep mechanics in your games.
+- [Slippery Slope and Perpetual Comeback](http://www.sirlin.net/articles/slippery-slope-and-perpetual-comeback.html): Good discussion about “slippery slope” (when losing, it’s harder to make a comeback) and “perpetual comeback” (when losing, it’s easy to have a reversal and win).
+- [#1GAM: How to Succeed at Making One Game a Month](http://gamedev.tutsplus.com/articles/business-articles/1gam-how-to-succeed-at-making-one-game-a-month/): great advice on how to stop having 90% of your games fail, and instead, finish and succeed. Written by someone who made 12 games in 12 months in 2012 (yes, yes, I know).
+- **Gameplay as skill**: See above article. Consider Mario 64: first level first star requires running, jumping, evasion. Last level last star requires triple-jumping on a dime, then wall-kicking, while you have a blue hat active (limited time).
+- [Trust](http://www.youhaventlived.com/qblog/2013/QBlog180213A.html): Some complaints about levelling in MMOs; how you can ditch this and come up with a sensible system that’s skill-based and trust-based. 
+- [Designing an Inventory System for your RPG](http://gamedevelopment.tutsplus.com/articles/designing-an-rpg-inventory-system-that-fits-preliminary-steps--gamedev-14725): A summary of common inventory types, and the pros and cons of each; advice on how to evaluate which (or what combination / custom version) to implement in your own RPG.
 
 # Core Mechanic
 
