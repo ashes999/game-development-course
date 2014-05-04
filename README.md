@@ -15,7 +15,7 @@ These tools cross boundaries across platforms. Learn them well; you will use the
 - [Tiled Map Editor](http://www.mapeditor.org/): an excellent and versatile 2D map editor for tiled maps. Usable enough for concept or prototype art; functional enough to create production game maps.
 
 
-# Essential Theory
+# Essential "Theory"
 
 Game design is a field which is increasingly attracting smart analysis; there are some good ideas about how to design better games.
 
@@ -42,7 +42,9 @@ Read as much of the below links as you can; they all talk about fundamental unde
 
 Great games start with a great core mechanic, the "thing" you do over and over again. In Tetris, you rotate and place blocks as they fall. In Mario, you run and jump to the end.
 
-Get your core mechanic right, because it makes or breaks your game.
+Get your core mechanic right, because it makes or breaks your game. When you take away the graphics, audio, achievements, etc. what you have left is your real core game. That's your mechanic, that  players play over and over again.
+
+Once you have a decent idea of how your game works, move to the next section.
 
 # Concept Art
 
@@ -60,7 +62,7 @@ Note: **Please respect copyright.** Don't use other peoples intellectual propert
 
 # Early Development / Prototyping
 
-Your idea is ready; you have major points of the main gameplay fleshed out in your head, or on paper. Create the smallest possible prototype version of your code that you can imagine.
+Your idea is ready; you have major points of the main gameplay fleshed out, complete with some inspirational art. Create the smallest possible prototype version of your code that you can imagine.
 
 Is your core mechanic great? Chances are it needs work. This is the time to tweak it and change it. If it's fun with placeholder graphics and no sound, it'll be amazing with the full, final production.
 
