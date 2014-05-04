@@ -1,4 +1,4 @@
-# The Ultimate Game Development Course (Outline)
+# The Ultimate Game Development Course
 
 Game development is awesome. There are lots of things to read and know, best practices, great tools, and other useful "stuff." This page attempts to give you a bare-bones "course" which takes you from initial idea through to implementation.
 
@@ -36,6 +36,7 @@ Read as much of the below links as you can; they all talk about fundamental unde
 - [A Single Game as a Lifelong Hobby](http://www.lostgarden.com/2013/07/a-single-game-as-lifelong-hobby.html): How evergreen (skill-based) games attract lifetime, often competitive, gamers.
 - [Understanding Randomness in terms of Mastery](http://www.lostgarden.com/2012/12/understanding-randomness-in-terms-of.html): How to add randomness the right way in your games: that expert users can master it as a skill and use it to their advantage.
 - [Goal Oriented Action Planning for Smarter AIs](http://gamedevelopment.tutsplus.com/tutorials/goal-oriented-action-planning-for-a-smarter-ai--cms-20793): How to create "goal-oriented" AI agents that are more realistic, and use their goals to determine their actions.
+- [The Guide to Implementing 2D Platformers](http://higherorderfun.com/blog/2012/05/20/the-guide-to-implementing-2d-platformers/): An anaysis of how to implement a platformers; analysis of some existing styles, with analysis of design trade-offs.
 
 # Core Mechanic
 
