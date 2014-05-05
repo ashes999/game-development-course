@@ -84,6 +84,7 @@ You may want to completely rewrite your game in a different technology to make i
 - [CG Textures](http://www.cgtextures.com/): Free, quality textures for 3D (and other) work.
 - [Chibi Maker](http://www.famitsu.com/freegame/tool/chibi/index1.html): Character generator for "chibi" style characters (like in RPG Maker). Site is in Japanese, but still usable without understanding the language.
 - [Face Generator](http://foxrichards.deviantart.com/art/FaceMaker-52755515): Generates 2D faces from a pre-defined set of features. Useful for character avatars.
+- [Festival Online Demo](http://www.cstr.ed.ac.uk/projects/festival/onlinedemo.html): An online end-point for a freeware text-to-speech tool. Useful for placeholder (and maybe production) speech.
 - [FreeSound.org](http://freesound.org): download sounds toand compose awesome background ambiance.
 - [Font Squirrel](http://www.fontsquirrel.com/): beautiful collection of fonts, 100% free for commercial use.
 - [Google Fonts](https://www.google.com/fonts): Excellent collection of fonts with very permissive licensing/terms of usage. Yes, you can download the fonts too.
