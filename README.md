@@ -72,6 +72,7 @@ Some technologies which are useful for fast/cheap prototyping:
 
 - [CraftyJS](http://craftyjs.com/): Javascript game library with entity/component architecture and event-based messaging. You can create reusable components and parameterized entities, and game development is quite fast. You can also evolve/rewrite your code into production code (complete with unit testing) if you decide to stick with this platform.
 - [LÖVE](http://love2d.org/): Lua game development library. Many swear by it.
+- [Gosu](http://www.libgosu.org/): Ruby/desktop game dev library; also has unofficial Android port.
 
 # Main Development
 
