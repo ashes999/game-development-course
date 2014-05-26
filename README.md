@@ -102,7 +102,7 @@ Finally, your game is complete! You need to prepare it for your marketing push.
 - [6 Simple Things You can do to Improve Your Screenshots](http://gamedevelopment.tutsplus.com/tutorials/6-simple-things-you-can-do-to-improve-your-screenshots--gamedev-14272): useful for marketing materials.
 
 
-### Android Games
+## Android Games
 - Integrate [Flurry Analytics](http://www.flurry.com/solutions/analytics) so you can track errors in your game. Place key events so you can monitor for potential problems (eg. level too difficult)
 - Read the Google Play requirements. Create at least:
     - Two high-resolution screenshots (eg. `1280x800`)
@@ -117,3 +117,8 @@ Finally, your game is complete! You need to prepare it for your marketing push.
 
 - **Android Games:** Post on Google Play and [SlideMe](http://slideme.org/).
 - **OUYA Games:** Market on [the official forums](http://forums.ouya.tv/categories/games) and on [these forums](http://ouyaforum.com/forum.php) 
+
+# Speciality Games
+## Kids Games
+### Readings
+- [How to Design a Menu Interface for a Toddler's Game or App](http://gamedevelopment.tutsplus.com/tutorials/how-to-design-a-menu-interface-for-a-toddlers-game-or-app--cms-20824): how to make your app UI more usable for young children.
