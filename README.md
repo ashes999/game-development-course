@@ -97,12 +97,11 @@ Your game is pretty much done. There's still a lot of stuff you can do to make i
 - [TinyPNG](https://tinypng.com/): Compresses all your PNGs in a loss-less way. Saves tons of bytes.
 
 # Pre-Release
+
 Finally, your game is complete! You need to prepare it for your marketing push.
 
 - **Write up a project retrospective:** get (candid, if possible) feedback from everyone (all team members regardless of position/role) about the project. What went well? What didn't go so well? What would we do differently next time?
-- 
 - [6 Simple Things You can do to Improve Your Screenshots](http://gamedevelopment.tutsplus.com/tutorials/6-simple-things-you-can-do-to-improve-your-screenshots--gamedev-14272): useful for marketing materials.
-
 
 ## Android Games
 - Integrate [Flurry Analytics](http://www.flurry.com/solutions/analytics) so you can track errors in your game. Place key events so you can monitor for potential problems (eg. level too difficult)
