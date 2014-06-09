@@ -80,6 +80,13 @@ You modified and verified your idea by making it into reality, and saw that it w
 
 You may want to completely rewrite your game in a different technology to make it production-ready (eg. something more cross-platform/solid/fast/low-level/etc.), or you may want to heavily modify your existing code to bring it up to standards. 
 
+## Essential Reading
+
+- [Should you Polish your Game, or add more Depth and Features?](http://gamedevelopment.tutsplus.com/articles/should-you-polish-your-game-or-add-more-depth-and-features--cms-21155): A good set of guidelines to help you decide if you should polish your existing game or add more depth/gameplay/features.
+
+
+## Awesome Tools and Resources
+
 - [BFXR](http://www.bfxr.net/): quickly create decent sound-effects for your game.
 - [CG Textures](http://www.cgtextures.com/): Free, quality textures for 3D (and other) work.
 - [Chibi Maker](http://www.famitsu.com/freegame/tool/chibi/index1.html): Character generator for "chibi" style characters (like in RPG Maker). Site is in Japanese, but still usable without understanding the language.
@@ -102,7 +109,6 @@ Finally, your game is complete! You need to prepare it for your marketing push.
 
 - **Write up a project retrospective:** get (candid, if possible) feedback from everyone (all team members regardless of position/role) about the project. What went well? What didn't go so well? What would we do differently next time?
 - [6 Simple Things You can do to Improve Your Screenshots](http://gamedevelopment.tutsplus.com/tutorials/6-simple-things-you-can-do-to-improve-your-screenshots--gamedev-14272): useful for marketing materials.
-- [Should you Polish your Game, or add more Depth and Features?](http://gamedevelopment.tutsplus.com/articles/should-you-polish-your-game-or-add-more-depth-and-features--cms-21155): A good set of guidelines to help you decide if you should polish your existing game or add more depth/gameplay/features.
 
 ## Android Games
 - Integrate [Flurry Analytics](http://www.flurry.com/solutions/analytics) so you can track errors in your game. Place key events so you can monitor for potential problems (eg. level too difficult)
