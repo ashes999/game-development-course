@@ -82,6 +82,7 @@ You may want to completely rewrite your game in a different technology to make i
 
 ## Essential Reading
 
+- [I have to make a game in 9 days. AHHH!](http://gamedev.stackexchange.com/a/24916/1929): some good advice on completing a game in nine days or less. The same principles apply to completing games *at all*; games tend to balloon in size and fail. Keep it small and trim ruthlessly.
 - [Should you Polish your Game, or add more Depth and Features?](http://gamedevelopment.tutsplus.com/articles/should-you-polish-your-game-or-add-more-depth-and-features--cms-21155): A good set of guidelines to help you decide if you should polish your existing game or add more depth/gameplay/features.
 
 
@@ -102,6 +103,7 @@ You may want to completely rewrite your game in a different technology to make i
 Your game is pretty much done. There's still a lot of stuff you can do to make it better -- smaller, faster, etc.
 
 - [TinyPNG](https://tinypng.com/): Compresses all your PNGs in a loss-less way. Saves tons of bytes.
+- [Coblis Color Blindness Simulator](http://www.color-blindness.com/coblis-color-blindness-simulator/): upload screenshots of your game and make sure it looks okay to someone with colour blindness. (Red-blind and green-blind are the most common.) Also, [ask on reddit](http://www.reddit.com/r/colorblind) for someone who's colorblind to take a look at your game.
 
 # Pre-Release
 
@@ -110,7 +112,7 @@ Finally, your game is complete! You need to prepare it for your marketing push.
 - **Write up a project retrospective:** get (candid, if possible) feedback from everyone (all team members regardless of position/role) about the project. What went well? What didn't go so well? What would we do differently next time?
 - [6 Simple Things You can do to Improve Your Screenshots](http://gamedevelopment.tutsplus.com/tutorials/6-simple-things-you-can-do-to-improve-your-screenshots--gamedev-14272): useful for marketing materials.
 
-## Android Games
+## Android Games (move to wiki)
 - Integrate [Flurry Analytics](http://www.flurry.com/solutions/analytics) so you can track errors in your game. Place key events so you can monitor for potential problems (eg. level too difficult)
 - Read the Google Play requirements. Create at least:
     - Two high-resolution screenshots (eg. `1280x800`)
@@ -126,7 +128,7 @@ Finally, your game is complete! You need to prepare it for your marketing push.
 - **Android Games:** Post on Google Play and [SlideMe](http://slideme.org/).
 - **OUYA Games:** Market on [the official forums](http://forums.ouya.tv/categories/games) and on [these forums](http://ouyaforum.com/forum.php) 
 
-# Speciality Games
+# Speciality Games (move to wiki)
 ## Kids Games
 ### Readings
 - [How to Design a Menu Interface for a Toddler's Game or App](http://gamedevelopment.tutsplus.com/tutorials/how-to-design-a-menu-interface-for-a-toddlers-game-or-app--cms-20824): how to make your app UI more usable for young children.
