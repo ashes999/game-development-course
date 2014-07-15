@@ -72,7 +72,6 @@ Some technologies which are useful for fast/cheap prototyping:
 
 - [CraftyJS](http://craftyjs.com/): Javascript game library with entity/component architecture and event-based messaging. You can create reusable components and parameterized entities, and game development is quite fast. You can also evolve/rewrite your code into production code (complete with unit testing) if you decide to stick with this platform.
 - [LÖVE](http://love2d.org/): Lua game development library. Many swear by it.
-- [Gosu](http://www.libgosu.org/): Ruby/desktop game dev library; also has unofficial Android port.
 
 # Main Development
 
@@ -90,13 +89,10 @@ You may want to completely rewrite your game in a different technology to make i
 
 - [BFXR](http://www.bfxr.net/): quickly create decent sound-effects for your game.
 - [CG Textures](http://www.cgtextures.com/): Free, quality textures for 3D (and other) work.
-- [Chibi Maker](http://www.famitsu.com/freegame/tool/chibi/index1.html): Character generator for "chibi" style characters (like in RPG Maker). Site is in Japanese, but still usable without understanding the language.
-- [Face Generator](http://foxrichards.deviantart.com/art/FaceMaker-52755515): Generates 2D faces from a pre-defined set of features. Useful for character avatars.
 - [FreeSound.org](http://freesound.org): download sounds toand compose awesome background ambiance.
 - [Font Squirrel](http://www.fontsquirrel.com/): beautiful collection of fonts, 100% free for commercial use.
 - [Google Fonts](https://www.google.com/fonts): Excellent collection of fonts with very permissive licensing/terms of usage. Yes, you can download the fonts too.
 - [IconFinder](https://www.iconfinder.com/): Great way to find small, free (and paid) icons that you can use in your games.
-- [Public Art](https://github.com/ummah/public-game-art): A repository of RPG-Maker-like 2D top-down tiles, characters, and related artwork. Take a look (especially if you're making 2D top-down perspective games).
 - [The League of Movable Type](https://www.theleagueofmoveabletype.com/): An awesome, but small, list of free-for-use fonts.
 
 # Finishing Touches
@@ -111,24 +107,3 @@ Finally, your game is complete! You need to prepare it for your marketing push.
 
 - **Write up a project retrospective:** get (candid, if possible) feedback from everyone (all team members regardless of position/role) about the project. What went well? What didn't go so well? What would we do differently next time?
 - [6 Simple Things You can do to Improve Your Screenshots](http://gamedevelopment.tutsplus.com/tutorials/6-simple-things-you-can-do-to-improve-your-screenshots--gamedev-14272): useful for marketing materials.
-
-## Android Games (move to wiki)
-- Integrate [Flurry Analytics](http://www.flurry.com/solutions/analytics) so you can track errors in your game. Place key events so you can monitor for potential problems (eg. level too difficult)
-- Read the Google Play requirements. Create at least:
-    - Two high-resolution screenshots (eg. `1280x800`)
-    - High-res app icon (512x512)
-    - Promo graphic (180x120)
-    - Featured graphic (1024x500)
-- Make it work on OUYA.
-    - [Here are some notes](http://forums.ouya.tv/discussion/1174/porting-from-mobile-to-ouya/p1) on how to do that.
-    - [Fix your dead zones](http://www.third-helix.com/2013/04/doing-thumbstick-dead-zones-right/) and [make them radial](https://gist.github.com/stfx/5372176)
-
-# Marketing
-
-- **Android Games:** Post on Google Play and [SlideMe](http://slideme.org/).
-- **OUYA Games:** Market on [the official forums](http://forums.ouya.tv/categories/games) and on [these forums](http://ouyaforum.com/forum.php) 
-
-# Speciality Games (move to wiki)
-## Kids Games
-### Readings
-- [How to Design a Menu Interface for a Toddler's Game or App](http://gamedevelopment.tutsplus.com/tutorials/how-to-design-a-menu-interface-for-a-toddlers-game-or-app--cms-20824): how to make your app UI more usable for young children.
