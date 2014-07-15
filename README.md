@@ -107,3 +107,7 @@ Finally, your game is complete! You need to prepare it for your marketing push.
 
 - **Write up a project retrospective:** get (candid, if possible) feedback from everyone (all team members regardless of position/role) about the project. What went well? What didn't go so well? What would we do differently next time?
 - [6 Simple Things You can do to Improve Your Screenshots](http://gamedevelopment.tutsplus.com/tutorials/6-simple-things-you-can-do-to-improve-your-screenshots--gamedev-14272): useful for marketing materials.
+
+# Specific Platforms and Styles
+
+For a list of advice for specific types of games (eg. kids games, Android games, RPG Maker games) see [the wiki](https://github.com/ashes999/game-development-course/wiki).
