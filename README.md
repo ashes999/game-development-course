@@ -89,6 +89,7 @@ You may want to completely rewrite your game in a different technology to make i
 
 - [BFXR](http://www.bfxr.net/): quickly create decent sound-effects for your game.
 - [CG Textures](http://www.cgtextures.com/): Free, quality textures for 3D (and other) work.
+- [Cool Text](http://cooltext.com/): Create nice customized text-logos (including animated ones).
 - [FreeSound.org](http://freesound.org): download sounds toand compose awesome background ambiance.
 - [Font Squirrel](http://www.fontsquirrel.com/): beautiful collection of fonts, 100% free for commercial use.
 - [Google Fonts](https://www.google.com/fonts): Excellent collection of fonts with very permissive licensing/terms of usage. Yes, you can download the fonts too.
