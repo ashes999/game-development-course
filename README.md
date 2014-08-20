@@ -37,6 +37,7 @@ Read as much of the below links as you can; they all talk about fundamental unde
 - [Goal Oriented Action Planning for Smarter AIs](http://gamedevelopment.tutsplus.com/tutorials/goal-oriented-action-planning-for-a-smarter-ai--cms-20793): How to create "goal-oriented" AI agents that are more realistic, and use their goals to determine their actions.
 - [The Guide to Implementing 2D Platformers](http://higherorderfun.com/blog/2012/05/20/the-guide-to-implementing-2d-platformers/): An anaysis of how to implement a platformers; analysis of some existing styles, with analysis of design trade-offs.
 - [On the Shoulders of Giants](http://blog.rpgmakerweb.com/tutorials/on-the-shoulders-of-giants/): game developers copy ideas from other soften. This article explains how to examine the benefits, improve, change, and recast copied ideas into something better.
+- [The SnowBall Effect](http://gamedevelopment.tutsplus.com/articles/the-snowball-effect-and-how-to-avoid-it-in-game-design--cms-21892): how to use (and avoid) creating a snowball effect in your games for more epic comebacks.
 
 # Core Mechanic
 
