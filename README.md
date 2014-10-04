@@ -84,6 +84,7 @@ You may want to completely rewrite your game in a different technology to make i
 
 - [I have to make a game in 9 days. AHHH!](http://gamedev.stackexchange.com/a/24916/1929): some good advice on completing a game in nine days or less. The same principles apply to completing games *at all*; games tend to balloon in size and fail. Keep it small and trim ruthlessly.
 - [Should you Polish your Game, or add more Depth and Features?](http://gamedevelopment.tutsplus.com/articles/should-you-polish-your-game-or-add-more-depth-and-features--cms-21155): A good set of guidelines to help you decide if you should polish your existing game or add more depth/gameplay/features.
+- [When to Wrap Up a Project](http://www.hobbygamedev.com/beg/when-to-wrap-up-a-project/): guidelines for when to finish/stop working, when to talk away, and how to tell if your next project should be bigger or smaller.
 
 
 ## Awesome Tools and Resources
