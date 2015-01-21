@@ -38,6 +38,7 @@ Read as much of the below links as you can; they all talk about fundamental unde
 - [The Guide to Implementing 2D Platformers](http://higherorderfun.com/blog/2012/05/20/the-guide-to-implementing-2d-platformers/): An anaysis of how to implement a platformers; analysis of some existing styles, with analysis of design trade-offs.
 - [On the Shoulders of Giants](http://blog.rpgmakerweb.com/tutorials/on-the-shoulders-of-giants/): game developers copy ideas from other soften. This article explains how to examine the benefits, improve, change, and recast copied ideas into something better.
 - [The SnowBall Effect](http://gamedevelopment.tutsplus.com/articles/the-snowball-effect-and-how-to-avoid-it-in-game-design--cms-21892): how to use (and avoid) creating a snowball effect in your games for more epic comebacks.
+- [Let Them Play: Don't Lock Your Players Out of Playing](http://gamedevelopment.tutsplus.com/articles/let-them-play-dont-lock-your-players-out-of-playing--cms-23019): How games use locking the user out (usually detrimentally); how you can create no-lockout or low-lockout games, or use locking-out strategically.
 
 # Core Mechanic
 
