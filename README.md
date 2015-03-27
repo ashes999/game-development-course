@@ -73,8 +73,11 @@ The goal here is to **trade quality for speed.** The quicker you make your game,
 
 Some technologies which are useful for fast/cheap prototyping:
 
-- [CraftyJS](http://craftyjs.com/): Javascript game library with entity/component architecture and event-based messaging. You can create reusable components and parameterized entities, and game development is quite fast. You can also evolve/rewrite your code into production code (complete with unit testing) if you decide to stick with this platform.
-- [LÖVE](http://love2d.org/): Lua game development library. Many swear by it.
+- [HaxeFlixel[(http://haxeflixel.com): Cross-platform, Flixel-like library. Very complete features, very rapid development.
+- [CraftyJS](http://craftyjs.com/): Javascript game library with entity/component architecture and event-based messaging.
+- [LÖVE](http://love2d.org/): Lua game development library.
+
+Also, don't underestimate [breathling life into your games (article)](http://gamedevelopment.tutsplus.com/tutorials/bringing-your-game-to-life-in-10-simple-steps--cms-23447) at this stage.
 
 # Main Development
 
