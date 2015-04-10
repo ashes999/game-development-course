@@ -49,42 +49,12 @@ Great games start with a great core mechanic, the "thing" you do over and over a
 
 Get your core mechanic right, because it makes or breaks your game. When you take away the graphics, audio, achievements, etc. what you have left is your real core game. That's your mechanic, that  players play over and over again.
 
-Prototype aggressively, and use extensive user testing to figure out what works and what doesn't.
+Prototype aggressively, and use extensive user testing to figure out what works and what doesn't. You're writing throw-away code.
 
 - [Gamasutra - Quick and Dirty Prototyping: A Success Story](http://www.gamasutra.com/view/feature/132702/quick_and_dirty_prototyping_a_.php)
 - [Rapid Game Prototyping: Tips for Programmers](http://devmag.org.za/2014/01/08/rapid-game-prototyping-tips-for-programmers/)
 
 Once you have a decent idea of how your game works, move to the next section.
-
-# Concept Art
-
-You have an idea; now make it more real and vivid through concept art. This will help you flesh out parts of your idea; more importantly, it will **keep you motivated** through the long, thankless job of *shipping that idea.*
-
-Create concept art that illustrates the major points of your game and motivates you to get it done.
-
-Note: **Please respect copyright.** Don't use other peoples intellectual property, especially in commercial games, without their prior permission. For quick concept art, it may suffice. Some sites, like Getty Images, prohibit use even for concept imagery beyond 60 days. Consult with a lawyer.
-
-**Note:** Also take a look at the resources under Main Development.
-
-- [Google Image Search](http://images.google.com/): Awesome way to find good images, but not very specific ones.
-- [Getty Images](http://www.gettyimages.ca): Awesome way to find very specific images; important search words are "nobody" and "single object only".
-
-
-# Early Development / Prototyping
-
-Your idea is ready; you have major points of the main gameplay fleshed out, complete with some inspirational art. Create the smallest possible prototype version of your code that you can imagine.
-
-Is your core mechanic great? Chances are it needs work. This is the time to tweak it and change it. If it's fun with placeholder graphics and no sound, it'll be amazing with the full, final production.
-
-The goal here is to **trade quality for speed.** The quicker you make your game, the faster you can tell if it's awesome, or less so. Don't worry about code quality, unit testing, or any of that other stuff; just make sure you have something playable and it's *fun.*
-
-Some technologies which are useful for fast/cheap prototyping:
-
-- [HaxeFlixel[(http://haxeflixel.com): Cross-platform, Flixel-like library. Very complete features, very rapid development.
-- [CraftyJS](http://craftyjs.com/): Javascript game library with entity/component architecture and event-based messaging.
-- [LÖVE](http://love2d.org/): Lua game development library.
-
-Also, don't underestimate [breathling life into your games (article)](http://gamedevelopment.tutsplus.com/tutorials/bringing-your-game-to-life-in-10-simple-steps--cms-23447) at this stage.
 
 # Main Development
 
@@ -97,7 +67,7 @@ You may want to completely rewrite your game in a different technology to make i
 - [I have to make a game in 9 days. AHHH!](http://gamedev.stackexchange.com/a/24916/1929): some good advice on completing a game in nine days or less. The same principles apply to completing games *at all*; games tend to balloon in size and fail. Keep it small and trim ruthlessly.
 - [Should you Polish your Game, or add more Depth and Features?](http://gamedevelopment.tutsplus.com/articles/should-you-polish-your-game-or-add-more-depth-and-features--cms-21155): A good set of guidelines to help you decide if you should polish your existing game or add more depth/gameplay/features.
 - [When to Wrap Up a Project](http://www.hobbygamedev.com/beg/when-to-wrap-up-a-project/): guidelines for when to finish/stop working, when to talk away, and how to tell if your next project should be bigger or smaller.
-
+- [Breathling life into your games (article)](http://gamedevelopment.tutsplus.com/tutorials/bringing-your-game-to-life-in-10-simple-steps--cms-23447) helps avoid problems of adding graphics/sounds last minute.
 
 ## Awesome Tools and Resources
 
