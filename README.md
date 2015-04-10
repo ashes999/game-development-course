@@ -15,11 +15,13 @@ These tools cross boundaries across platforms. Learn them well; you will use the
 - [Tiled Map Editor](http://www.mapeditor.org/): an excellent and versatile 2D map editor for tiled maps. Usable enough for concept or prototype art; functional enough to create production game maps.
 
 
-# Essential "Theory"
+# Essential Game Design "Theory"
 
 Game design is a field which is increasingly attracting smart analysis; there are some good ideas about how to design better games.
 
 Read as much of the below links as you can; they all talk about fundamental underpinnings in games (eg. what is "good" vs. "bad" difficulty in games).
+
+**You must [take this edX course](https://www.edx.org/course/introduction-game-design-mitx-11-126x).** You simply can't afford not to know this.
 
 - [Understanding Randomness in terms of Mastery](http://www.lostgarden.com/2012/12/understanding-randomness-in-terms-of.html): An explanation of noise, mastery, mental models, and how they go together; how to use random so that unskilled players learn and become skilled players (build mental model, master randomness).
 - [Steambirds: Survival Mode](http://www.lostgarden.com/2011/10/steambirds-survival-mobile.html): An explanation of “arrow of play” -- defining gameplay as a step by step progression, so players know where they are and where they’re going.
@@ -41,11 +43,16 @@ Read as much of the below links as you can; they all talk about fundamental unde
 - [Let Them Play: Don't Lock Your Players Out of Playing](http://gamedevelopment.tutsplus.com/articles/let-them-play-dont-lock-your-players-out-of-playing--cms-23019): How games use locking the user out (usually detrimentally); how you can create no-lockout or low-lockout games, or use locking-out strategically.
 - [How game forms are shaped by their environment](http://www.lostgarden.com/2014/05/how-game-forms-are-shaped-by-their.html): why short, content driven-games are suddenly appearing in abundance.
 
-# Core Mechanic
+# Core Mechanic Prototyping
 
 Great games start with a great core mechanic, the "thing" you do over and over again. In Tetris, you rotate and place blocks as they fall. In Mario, you run and jump to the end.
 
 Get your core mechanic right, because it makes or breaks your game. When you take away the graphics, audio, achievements, etc. what you have left is your real core game. That's your mechanic, that  players play over and over again.
+
+Prototype aggressively, and use extensive user testing to figure out what works and what doesn't.
+
+- [Gamasutra - Quick and Dirty Prototyping: A Success Story](http://www.gamasutra.com/view/feature/132702/quick_and_dirty_prototyping_a_.php)
+- [Rapid Game Prototyping: Tips for Programmers](http://devmag.org.za/2014/01/08/rapid-game-prototyping-tips-for-programmers/)
 
 Once you have a decent idea of how your game works, move to the next section.
 
