@@ -51,10 +51,14 @@ Get your core mechanic right, because it makes or breaks your game. When you tak
 
 Prototype aggressively, and use extensive user testing to figure out what works and what doesn't. You're writing throw-away code.
 
+[Here's my step by step methodology](https://sites.google.com/site/deengames/development/prototyping).
+
+These links are also good reads:
+
 - [Gamasutra - Quick and Dirty Prototyping: A Success Story](http://www.gamasutra.com/view/feature/132702/quick_and_dirty_prototyping_a_.php)
 - [Rapid Game Prototyping: Tips for Programmers](http://devmag.org.za/2014/01/08/rapid-game-prototyping-tips-for-programmers/)
 
-Once you have a decent idea of how your game works, move to the next section.
+Once you have a proven, fun, grey-boxed core set of mechanics for your game, move on.
 
 # Main Development
 
@@ -68,6 +72,7 @@ You may want to completely rewrite your game in a different technology to make i
 - [Should you Polish your Game, or add more Depth and Features?](http://gamedevelopment.tutsplus.com/articles/should-you-polish-your-game-or-add-more-depth-and-features--cms-21155): A good set of guidelines to help you decide if you should polish your existing game or add more depth/gameplay/features.
 - [When to Wrap Up a Project](http://www.hobbygamedev.com/beg/when-to-wrap-up-a-project/): guidelines for when to finish/stop working, when to talk away, and how to tell if your next project should be bigger or smaller.
 - [Breathling life into your games (article)](http://gamedevelopment.tutsplus.com/tutorials/bringing-your-game-to-life-in-10-simple-steps--cms-23447) helps avoid problems of adding graphics/sounds last minute.
+- [Building Humane Games](https://www.youtube.com/watch?v=GArkyxP8-n0) by Extra Credits
 
 ## Awesome Tools and Resources
 
