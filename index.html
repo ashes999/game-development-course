@@ -1,37 +1,25 @@
 <!DOCTYPE html>
-<html>
-
+<html lang="en-us">
   <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <meta name="description" content="Game-development-resources : ">
-
-    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
-
-    <title>Game-development-resources</title>
+    <meta charset="UTF-8">
+    <title>Game-development-resources by ashes999</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
   </head>
-
   <body>
+    <section class="page-header">
+      <h1 class="project-name">Game-development-resources</h1>
+      <h2 class="project-tagline"></h2>
+      <a href="https://github.com/ashes999/game-development-course" class="btn">View on GitHub</a>
+      <a href="https://github.com/ashes999/game-development-course/zipball/master" class="btn">Download .zip</a>
+      <a href="https://github.com/ashes999/game-development-course/tarball/master" class="btn">Download .tar.gz</a>
+    </section>
 
-    <!-- HEADER -->
-    <div id="header_wrap" class="outer">
-        <header class="inner">
-          <a id="forkme_banner" href="https://github.com/ashes999/game-development-course">View on GitHub</a>
-
-          <h1 id="project_title">Game-development-resources</h1>
-          <h2 id="project_tagline"></h2>
-
-            <section id="downloads">
-              <a class="zip_download_link" href="https://github.com/ashes999/game-development-course/zipball/master">Download this project as a .zip file</a>
-              <a class="tar_download_link" href="https://github.com/ashes999/game-development-course/tarball/master">Download this project as a tar.gz file</a>
-            </section>
-        </header>
-    </div>
-
-    <!-- MAIN CONTENT -->
-    <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
-        <h1>
+    <section class="main-content">
+      <h1>
 <a id="the-ultimate-game-development-course" class="anchor" href="#the-ultimate-game-development-course" aria-hidden="true"><span class="octicon octicon-link"></span></a>The Ultimate Game Development Course</h1>
 
 <p>Game development is awesome. There are lots of things to read and know, best practices, great tools, and other useful "stuff." This page attempts to give you a bare-bones "course" which takes you from initial idea through to implementation.</p>
@@ -55,11 +43,13 @@
 </ul>
 
 <h1>
-<a id="essential-theory" class="anchor" href="#essential-theory" aria-hidden="true"><span class="octicon octicon-link"></span></a>Essential "Theory"</h1>
+<a id="essential-game-design-theory" class="anchor" href="#essential-game-design-theory" aria-hidden="true"><span class="octicon octicon-link"></span></a>Essential Game Design "Theory"</h1>
 
 <p>Game design is a field which is increasingly attracting smart analysis; there are some good ideas about how to design better games.</p>
 
 <p>Read as much of the below links as you can; they all talk about fundamental underpinnings in games (eg. what is "good" vs. "bad" difficulty in games).</p>
+
+<p><strong>You must <a href="https://www.edx.org/course/introduction-game-design-mitx-11-126x">take this edX course</a>.</strong> You simply can't afford not to know this.</p>
 
 <ul>
 <li>
@@ -103,52 +93,24 @@
 </ul>
 
 <h1>
-<a id="core-mechanic" class="anchor" href="#core-mechanic" aria-hidden="true"><span class="octicon octicon-link"></span></a>Core Mechanic</h1>
+<a id="core-mechanic-prototyping" class="anchor" href="#core-mechanic-prototyping" aria-hidden="true"><span class="octicon octicon-link"></span></a>Core Mechanic Prototyping</h1>
 
 <p>Great games start with a great core mechanic, the "thing" you do over and over again. In Tetris, you rotate and place blocks as they fall. In Mario, you run and jump to the end.</p>
 
 <p>Get your core mechanic right, because it makes or breaks your game. When you take away the graphics, audio, achievements, etc. what you have left is your real core game. That's your mechanic, that  players play over and over again.</p>
 
-<p>Once you have a decent idea of how your game works, move to the next section.</p>
+<p>Prototype aggressively, and use extensive user testing to figure out what works and what doesn't. You're writing throw-away code.</p>
 
-<h1>
-<a id="concept-art" class="anchor" href="#concept-art" aria-hidden="true"><span class="octicon octicon-link"></span></a>Concept Art</h1>
+<p><a href="https://sites.google.com/site/deengames/development/prototyping">Here's my step by step methodology</a>.</p>
 
-<p>You have an idea; now make it more real and vivid through concept art. This will help you flesh out parts of your idea; more importantly, it will <strong>keep you motivated</strong> through the long, thankless job of <em>shipping that idea.</em></p>
-
-<p>Create concept art that illustrates the major points of your game and motivates you to get it done.</p>
-
-<p>Note: <strong>Please respect copyright.</strong> Don't use other peoples intellectual property, especially in commercial games, without their prior permission. For quick concept art, it may suffice. Some sites, like Getty Images, prohibit use even for concept imagery beyond 60 days. Consult with a lawyer.</p>
-
-<p><strong>Note:</strong> Also take a look at the resources under Main Development.</p>
+<p>These links are also good reads:</p>
 
 <ul>
-<li>
-<a href="http://images.google.com/">Google Image Search</a>: Awesome way to find good images, but not very specific ones.</li>
-<li>
-<a href="http://www.gettyimages.ca">Getty Images</a>: Awesome way to find very specific images; important search words are "nobody" and "single object only".</li>
+<li><a href="http://www.gamasutra.com/view/feature/132702/quick_and_dirty_prototyping_a_.php">Gamasutra - Quick and Dirty Prototyping: A Success Story</a></li>
+<li><a href="http://devmag.org.za/2014/01/08/rapid-game-prototyping-tips-for-programmers/">Rapid Game Prototyping: Tips for Programmers</a></li>
 </ul>
 
-<h1>
-<a id="early-development--prototyping" class="anchor" href="#early-development--prototyping" aria-hidden="true"><span class="octicon octicon-link"></span></a>Early Development / Prototyping</h1>
-
-<p>Your idea is ready; you have major points of the main gameplay fleshed out, complete with some inspirational art. Create the smallest possible prototype version of your code that you can imagine.</p>
-
-<p>Is your core mechanic great? Chances are it needs work. This is the time to tweak it and change it. If it's fun with placeholder graphics and no sound, it'll be amazing with the full, final production.</p>
-
-<p>The goal here is to <strong>trade quality for speed.</strong> The quicker you make your game, the faster you can tell if it's awesome, or less so. Don't worry about code quality, unit testing, or any of that other stuff; just make sure you have something playable and it's <em>fun.</em></p>
-
-<p>Some technologies which are useful for fast/cheap prototyping:</p>
-
-<ul>
-<li>[HaxeFlixel[(<a href="http://haxeflixel.com">http://haxeflixel.com</a>): Cross-platform, Flixel-like library. Very complete features, very rapid development.</li>
-<li>
-<a href="http://craftyjs.com/">CraftyJS</a>: Javascript game library with entity/component architecture and event-based messaging.</li>
-<li>
-<a href="http://love2d.org/">LÖVE</a>: Lua game development library.</li>
-</ul>
-
-<p>Also, don't underestimate <a href="http://gamedevelopment.tutsplus.com/tutorials/bringing-your-game-to-life-in-10-simple-steps--cms-23447">breathling life into your games (article)</a> at this stage.</p>
+<p>Once you have a proven, fun, grey-boxed core set of mechanics for your game, move on.</p>
 
 <h1>
 <a id="main-development" class="anchor" href="#main-development" aria-hidden="true"><span class="octicon octicon-link"></span></a>Main Development</h1>
@@ -167,6 +129,10 @@
 <a href="http://gamedevelopment.tutsplus.com/articles/should-you-polish-your-game-or-add-more-depth-and-features--cms-21155">Should you Polish your Game, or add more Depth and Features?</a>: A good set of guidelines to help you decide if you should polish your existing game or add more depth/gameplay/features.</li>
 <li>
 <a href="http://www.hobbygamedev.com/beg/when-to-wrap-up-a-project/">When to Wrap Up a Project</a>: guidelines for when to finish/stop working, when to talk away, and how to tell if your next project should be bigger or smaller.</li>
+<li>
+<a href="http://gamedevelopment.tutsplus.com/tutorials/bringing-your-game-to-life-in-10-simple-steps--cms-23447">Breathling life into your games (article)</a> helps avoid problems of adding graphics/sounds last minute.</li>
+<li>
+<a href="https://www.youtube.com/watch?v=GArkyxP8-n0">Building Humane Games</a> by Extra Credits</li>
 </ul>
 
 <h2>
@@ -219,18 +185,16 @@
 <a id="specific-platforms-and-styles" class="anchor" href="#specific-platforms-and-styles" aria-hidden="true"><span class="octicon octicon-link"></span></a>Specific Platforms and Styles</h1>
 
 <p>For a list of advice for specific types of games (eg. kids games, Android games, RPG Maker games) see <a href="https://github.com/ashes999/game-development-course/wiki">the wiki</a>.</p>
-      </section>
-    </div>
 
-    <!-- FOOTER  -->
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
-        <p class="copyright">Game-development-resources maintained by <a href="https://github.com/ashes999">ashes999</a></p>
-        <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
+      <footer class="site-footer">
+        <span class="site-footer-owner"><a href="https://github.com/ashes999/game-development-course">Game-development-resources</a> is maintained by <a href="https://github.com/ashes999">ashes999</a>.</span>
+
+        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a> using the <a href="https://github.com/jasonlong/cayman-theme">Cayman theme</a> by <a href="https://twitter.com/jasonlong">Jason Long</a>.</span>
       </footer>
-    </div>
 
-    
+    </section>
 
+  
   </body>
 </html>
+
