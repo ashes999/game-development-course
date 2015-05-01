@@ -90,6 +90,7 @@ Your game is pretty much done. There's still a lot of stuff you can do to make i
 
 - [TinyPNG](https://tinypng.com/): Compresses all your PNGs in a loss-less way. Saves tons of bytes.
 - [Coblis Color Blindness Simulator](http://www.color-blindness.com/coblis-color-blindness-simulator/): upload screenshots of your game and make sure it looks okay to someone with colour blindness. (Red-blind and green-blind are the most common.) Also, [ask on reddit](http://www.reddit.com/r/colorblind) for someone who's colorblind to take a look at your game.
+- [Pay by Numbers](http://robotinvader.com/blog/?p=133): A good read on common monetization strategies in freemium games, and why they create soulless games; they don't fit all types of games, either. Think creative monetization.
 
 # Pre-Release
 
