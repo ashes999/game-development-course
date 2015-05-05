@@ -42,6 +42,7 @@ Read as much of the below links as you can; they all talk about fundamental unde
 - [The SnowBall Effect](http://gamedevelopment.tutsplus.com/articles/the-snowball-effect-and-how-to-avoid-it-in-game-design--cms-21892): how to use (and avoid) creating a snowball effect in your games for more epic comebacks.
 - [Let Them Play: Don't Lock Your Players Out of Playing](http://gamedevelopment.tutsplus.com/articles/let-them-play-dont-lock-your-players-out-of-playing--cms-23019): How games use locking the user out (usually detrimentally); how you can create no-lockout or low-lockout games, or use locking-out strategically.
 - [How game forms are shaped by their environment](http://www.lostgarden.com/2014/05/how-game-forms-are-shaped-by-their.html): why short, content driven-games are suddenly appearing in abundance.
+- [Understanding Your Player: Play Sessions](https://www.youtube.com/watch?v=PeTjr4q_grE) How the platform and player demographic shapes how long they play, and where they play (eg. mobile on the subway riding home for a few minutes, vs. weekend game binges on a console).
 
 # Core Mechanic Prototyping
 
